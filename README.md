@@ -44,17 +44,6 @@ flask run
 
 Once both servers are running, access the frontend via http://localhost:5173. Fill in your notes and submit — the backend will convert your input to Markdown and push it directly to your GitHub repository under a notas/ folder.
 
-### Folder Structure
-mi-app-cornell/
-├── frontend/
-│   ├── src/
-│   └── package.json
-├── backend/
-│   ├── app.py
-│   ├── .env
-│   ├── requirements.txt
-│   └── .venv/
-
 ## License
 
 This project is licensed under the GNU General Public License v3.0.  
