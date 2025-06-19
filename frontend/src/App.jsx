@@ -40,7 +40,7 @@ ${resumen}
 
   return (
     <div className="min-h-screen bg-gray-900 text-gray-100 font-sans p-6 flex flex-col">
-      <h1 className="text-2xl font-medium mb-6 text-center">Cornell Notes</h1>
+      <h1 className="text-2xl font-medium mb-6 text-center">kornapp</h1>
 
       <div className="flex flex-1 gap-4 max-w-6xl mx-auto w-full">
         <div className="flex flex-col flex-1">
